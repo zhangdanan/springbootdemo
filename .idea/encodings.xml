@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/1-SpringBoot-HelloWorld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2-SpringBoot-Data-Format/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-SpringBoot-Swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-SpringBoot-Redis/src/main/java" charset="UTF-8" />
   </component>
 </project>

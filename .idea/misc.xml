@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/1-SpringBoot-HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/2-SpringBoot-Data-Format/pom.xml" />
+        <option value="$PROJECT_DIR$/3-SpringBoot-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/4-SpringBoot-Redis/pom.xml" />
       </list>
     </option>
   </component>

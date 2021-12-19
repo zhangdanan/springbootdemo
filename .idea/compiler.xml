@@ -7,14 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="2-SpringBoot-Data-Format" />
+        <module name="4-SpringBoot-Redis" />
         <module name="1-SpringBoot-HelloWorld" />
         <module name="springbootdemo" />
-        <module name="2-SpringBoot-Data-Format" />
+        <module name="3-SpringBoot-Swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1-SpringBoot-HelloWorld" target="1.8" />
       <module name="2-SpringBoot-Data-Format" target="1.8" />
+      <module name="3-SpringBoot-Swagger" target="1.8" />
+      <module name="4-SpringBoot-Redis" target="1.8" />
+      <module name="SpringBoot-Swagger2" target="1.8" />
       <module name="springbootdemo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -22,6 +27,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="1-SpringBoot-HelloWorld" options="-parameters" />
       <module name="2-SpringBoot-Data-Format" options="-parameters" />
+      <module name="3-SpringBoot-Swagger" options="-parameters" />
+      <module name="4-SpringBoot-Redis" options="-parameters" />
+      <module name="SpringBoot-Swagger2" options="-parameters" />
     </option>
   </component>
 </project>
